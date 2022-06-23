@@ -1,10 +1,6 @@
-package co.com.aeronauticaCivil.COL.helpers.pdfDescargado;
-
-
-import org.junit.Assert;
+package co.com.aeronauticaCivil.COL.helpers;
 
 import java.util.logging.Logger;
-
 
 public class ManagerLog {
 

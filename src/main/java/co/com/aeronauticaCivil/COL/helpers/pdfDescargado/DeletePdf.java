@@ -1,8 +1,7 @@
 package co.com.aeronauticaCivil.COL.helpers.pdfDescargado;
 
 import co.com.aeronauticaCivil.COL.helpers.Constant;
-import io.cucumber.java.After;
-import io.cucumber.java.Before;
+import co.com.aeronauticaCivil.COL.helpers.ManagerLog;
 
 import java.io.File;
 
