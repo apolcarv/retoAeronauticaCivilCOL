@@ -1,12 +1,15 @@
 package co.com.aeronauticaCivil.COL.helpers.pdfDescargado;
 
 import co.com.aeronauticaCivil.COL.helpers.Constant;
+import io.cucumber.java.After;
+import io.cucumber.java.Before;
 
 import java.io.File;
 
 
 public class DeletePdf {
     private DeletePdf(){}
+
 
     public static void statementDownloaded(){
         File downloadsDirectory = new File(Constant.FOLDER_MAQUINA);
